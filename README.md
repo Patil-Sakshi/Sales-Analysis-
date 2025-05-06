@@ -6,39 +6,37 @@ Diwali is one of the biggest shopping seasons in India, where customers tend to 
 The main objective of this project was to analyze Diwali sales data to understand customer purchasing behavior, identify top-performing product categories, and derive actionable insights that can support business strategies such as targeted marketing and inventory planning.
 
 
-Workflow Steps Explained:
+## Workflow Steps Explained:
 
-Import Libraries and Dataset
+## Import Libraries and Dataset
 Load essential libraries like pandas, matplotlib, and seaborn, and import the Diwali sales dataset.
 
-Data Cleaning
+## Data Cleaning
 
-Remove null values.
+- Remove null values.
+- Convert data types if needed.
+- Drop irrelevant columns.
 
-Convert data types if needed.
+## Exploratory Data Analysis (EDA)
 
-Drop irrelevant columns.
+- Analyze sales trends by gender, age group, marital status, occupation, state, and product category.
 
-Exploratory Data Analysis (EDA)
+- Use grouping and aggregation for summarizing data.
 
-Analyze sales trends by gender, age group, marital status, occupation, state, and product category.
+## Data Visualization
 
-Use grouping and aggregation for summarizing data.
+- Create bar plots, pie charts, and histograms using Seaborn/Matplotlib.
 
-Data Visualization
+- Visualize top-selling product categories, high-order regions, and customer profiles.
 
-Create bar plots, pie charts, and histograms using Seaborn/Matplotlib.
+## Insight Generation
 
-Visualize top-selling product categories, high-order regions, and customer profiles.
+- Identify key customer segments and best-performing products.
 
-Insight Generation
+- Detect patterns that can influence marketing or inventory decisions.
 
-Identify key customer segments and best-performing products.
+##Business Recommendations
 
-Detect patterns that can influence marketing or inventory decisions.
+- Suggest focus areas for future campaigns.
 
-Business Recommendations
-
-Suggest focus areas for future campaigns.
-
-Provide strategic insights based on data findings.
+- Provide strategic insights based on data findings.
