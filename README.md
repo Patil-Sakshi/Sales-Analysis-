@@ -35,7 +35,7 @@ Load essential libraries like pandas, matplotlib, and seaborn, and import the Di
 
 - Detect patterns that can influence marketing or inventory decisions.
 
-##Business Recommendations
+## Business Recommendations
 
 - Suggest focus areas for future campaigns.
 
